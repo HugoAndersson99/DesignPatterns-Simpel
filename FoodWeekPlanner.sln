@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodWeekPlanner", "FoodWeekPlanner\FoodWeekPlanner.csproj", "{BA574615-EA0E-43F5-8D63-5DA2C5424684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA574615-EA0E-43F5-8D63-5DA2C5424684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA574615-EA0E-43F5-8D63-5DA2C5424684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA574615-EA0E-43F5-8D63-5DA2C5424684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA574615-EA0E-43F5-8D63-5DA2C5424684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5EACB0-775B-49BA-8D2A-C7E51C0E271E}
+	EndGlobalSection
+EndGlobal
